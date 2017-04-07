@@ -1,0 +1,14 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+button {
+    color: #32CD32;
+    background-color: inherit;
+    padding: 10px 20px;
+    border: 2px solid;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+}
